@@ -1,0 +1,15 @@
+.navlist {
+  display: flex;
+}
+
+.navListItem {
+  margin-left: 1.5em;
+}
+
+a {
+  color: #409a92;
+}
+
+a:hover {
+  color: #238a81;
+}

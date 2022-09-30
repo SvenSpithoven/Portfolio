@@ -1,0 +1,26 @@
+.about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.aboutName {
+  color: #409a92;
+}
+
+.aboutRole {
+  margin-top: 1em;
+}
+
+.aboutDesciption {
+  color: #82a7a4;
+  margin-top: 1.2em;
+  max-width: 700px;
+}
+
+.me {
+  width: 20rem;
+  height: 20rem;
+  border-radius: 50%;
+  object-fit: cover;
+}
